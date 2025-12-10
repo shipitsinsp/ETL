@@ -1,0 +1,11 @@
+airflow-clickhouse-plugin
+flask-appbuilder
+apache-airflow-providers-apache-spark
+pandas
+numpy
+requests
+pyspark
+dbt-core
+dbt-clickhouse
+faker
+psycopg2-binary
